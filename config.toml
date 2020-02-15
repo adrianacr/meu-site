@@ -1,4 +1,4 @@
-baseURL = "http://objective-clarke-f3b5a9.netlify.com"
+baseURL = "https://meu-site.netlify.com"
 languageCode = "en-us"
 title = "Dri CR"
 theme = "noteworthy"
